@@ -4,14 +4,14 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>GoogleMaps.xcscheme</key>
+		<key>Mapbox-iOS-SDK.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
-		<key>Pods-google-maps-ios-polyline.xcscheme</key>
+		<key>Pods-mapbox-ios-polyline.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
